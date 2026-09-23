@@ -1,0 +1,3 @@
+START
+READ records=3
+END status=ok
